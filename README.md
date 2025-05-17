@@ -1,1 +1,1 @@
-# build-a-video-compilation-page
+Another project made while studying the new freeCodeCamp curriculum.
